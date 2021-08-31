@@ -1,0 +1,16 @@
+.pragmaticLogo {
+    font-family: 'Lobster', cursive;
+}
+
+.footerBtn{
+    font-size: .6rem;
+}
+.footerWrap{
+    text-align:center; 
+    margin-top:2rem;
+}
+
+.headerWrap {
+    text-align:center;
+    margin:2rem 0;
+}
