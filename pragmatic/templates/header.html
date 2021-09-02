@@ -11,6 +11,9 @@
             <span>Login</span>
         </a>
         {% else %}
+        <a href="{% url 'accountapp:detail' pk=user.pk %}">
+            <span>Mypage</span>
+        </a>
         <a href="{% url 'accountapp:logout' %}">
             <span>Logout</span>
         </a>

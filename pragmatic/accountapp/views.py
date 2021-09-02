@@ -4,6 +4,8 @@ from django.shortcuts import redirect, render
 from django.http import HttpResponse
 
 from django.views.generic.edit import CreateView
+from django.views.generic import DetailView
+
 from accountapp.models import HelloWorld
 
 from django.contrib.auth.models import User
@@ -39,4 +41,8 @@ class AccountCreateView(CreateView):
     success_url = reverse_lazy('accountapp:hello_world')
     template_name = 'accountapp/create.html'
 
+class AccountDetailView(DetailView):
+    model = User
+    context_object_name = 'target_user'
+    template_name = 'accountapp/detail.html'
 

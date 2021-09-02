@@ -131,3 +131,5 @@ dmypy.json
 Pipfile
 .env
 db.sqlite3
+
+.DS_Store
