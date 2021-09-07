@@ -3,16 +3,47 @@
 
     <div>
         <div class="div500">
-            <p>
+            {% comment %} <p>
                 {{ target_user.date_joined }}
-            </p>
+            </p> {% endcomment %}
+
+
+            {% if target_user.profile %}
+            <img src="{{ target_user.profile.image.url }}" style="margin-bottom: 2rem; width:10rem; height:10rem; 
+            border-radius:100rem">
+
             <h2>
-                {{ target_user.username }}
+                {{ target_user.profile.nickname }}
+                {% if  target_user == user %}
+                <a href="{% url 'profileapp:update' pk=target_user.profile.pk %}">
+                    edit
+                </a>
+                {% endif %}
             </h2>
+
+            <h5>{{ target_user.profile.message }}</h5>
+
+            {% else %}
+                {% if  target_user == user %}
+                <a href="{% url 'profileapp:create' %}">
+                    <h2>
+                        Create Profile
+                    </h2>
+                </a>
+                {% else %}
+                <h2>닉네임 미설정</h2>
+                {% endif %}
+            
+            {% endif %}
+
+
 
             {% if target_user == user %}
             <a href="{% url 'accountapp:update' pk=user.pk%}">
                 <p>Change Info</p>
+            </a>
+            <a href="{% url 'accountapp:delete' pk=user.pk%}">
+                <p>Quit</p>
             </a>
             {% endif %}
         </div>

@@ -63,7 +63,6 @@ class AccountDetailView(DetailView):
     template_name = 'accountapp/detail.html'
 
 
-
 @method_decorator(has_ownership, 'get')
 @method_decorator(has_ownership, 'post')
 class AccountUpdateView(UpdateView):

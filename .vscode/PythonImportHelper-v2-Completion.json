@@ -1,0 +1,1056 @@
+[
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponseForbidden",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreationForm",
+        "importPath": "django.contrib.auth.forms",
+        "description": "django.contrib.auth.forms",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.forms",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreationForm",
+        "importPath": "django.contrib.auth.forms",
+        "description": "django.contrib.auth.forms",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.forms",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "AccountCreateView",
+        "importPath": "accountapp.views",
+        "description": "accountapp.views",
+        "isExtraImport": true,
+        "detail": "accountapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "AccountDetailView",
+        "importPath": "accountapp.views",
+        "description": "accountapp.views",
+        "isExtraImport": true,
+        "detail": "accountapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "AccountUpdateView",
+        "importPath": "accountapp.views",
+        "description": "accountapp.views",
+        "isExtraImport": true,
+        "detail": "accountapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "AccountDeleteView",
+        "importPath": "accountapp.views",
+        "description": "accountapp.views",
+        "isExtraImport": true,
+        "detail": "accountapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "hello_world",
+        "importPath": "accountapp.views",
+        "description": "accountapp.views",
+        "isExtraImport": true,
+        "detail": "accountapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "reverse",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "reverse_lazy",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "reverse_lazy",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "reverse_lazy",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "LoginView",
+        "importPath": "django.contrib.auth.views",
+        "description": "django.contrib.auth.views",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.views",
+        "documentation": {}
+    },
+    {
+        "label": "LogoutView",
+        "importPath": "django.contrib.auth.views",
+        "description": "django.contrib.auth.views",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.views",
+        "documentation": {}
+    },
+    {
+        "label": "account_ownership_required",
+        "importPath": "accountapp.decorators",
+        "description": "accountapp.decorators",
+        "isExtraImport": true,
+        "detail": "accountapp.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "HttpRequest",
+        "importPath": "django.http.request",
+        "description": "django.http.request",
+        "isExtraImport": true,
+        "detail": "django.http.request",
+        "documentation": {}
+    },
+    {
+        "label": "AccountUpdateForm",
+        "importPath": "accountapp.forms",
+        "description": "accountapp.forms",
+        "isExtraImport": true,
+        "detail": "accountapp.forms",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponseRedirect",
+        "importPath": "django.http.response",
+        "description": "django.http.response",
+        "isExtraImport": true,
+        "detail": "django.http.response",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponseForbidden",
+        "importPath": "django.http.response",
+        "description": "django.http.response",
+        "isExtraImport": true,
+        "detail": "django.http.response",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "CreateView",
+        "importPath": "django.views.generic.edit",
+        "description": "django.views.generic.edit",
+        "isExtraImport": true,
+        "detail": "django.views.generic.edit",
+        "documentation": {}
+    },
+    {
+        "label": "DeleteView",
+        "importPath": "django.views.generic.edit",
+        "description": "django.views.generic.edit",
+        "isExtraImport": true,
+        "detail": "django.views.generic.edit",
+        "documentation": {}
+    },
+    {
+        "label": "DetailView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "CreateView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "HelloWorld",
+        "importPath": "accountapp.models",
+        "description": "accountapp.models",
+        "isExtraImport": true,
+        "detail": "accountapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "method_decorator",
+        "importPath": "django.utils.decorators",
+        "description": "django.utils.decorators",
+        "isExtraImport": true,
+        "detail": "django.utils.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "environ,",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "environ.",
+        "description": "environ.",
+        "detail": "environ.",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.conf.urls",
+        "description": "django.conf.urls",
+        "isExtraImport": true,
+        "detail": "django.conf.urls",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "ModelForm",
+        "importPath": "django.forms",
+        "description": "django.forms",
+        "isExtraImport": true,
+        "detail": "django.forms",
+        "documentation": {}
+    },
+    {
+        "label": "Profile",
+        "importPath": "profileapp.models",
+        "description": "profileapp.models",
+        "isExtraImport": true,
+        "detail": "profileapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "Profile",
+        "importPath": "profileapp.models",
+        "description": "profileapp.models",
+        "isExtraImport": true,
+        "detail": "profileapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "ProfileUpdateView",
+        "importPath": "pragmatic.profileapp.views",
+        "description": "pragmatic.profileapp.views",
+        "isExtraImport": true,
+        "detail": "pragmatic.profileapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls.conf",
+        "description": "django.urls.conf",
+        "isExtraImport": true,
+        "detail": "django.urls.conf",
+        "documentation": {}
+    },
+    {
+        "label": "ProfileCreateView",
+        "importPath": "profileapp.views",
+        "description": "profileapp.views",
+        "isExtraImport": true,
+        "detail": "profileapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "ProfileCreationForm",
+        "importPath": "profileapp.forms",
+        "description": "profileapp.forms",
+        "isExtraImport": true,
+        "detail": "profileapp.forms",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "pragmatic.accountapp.migrations.0001_initial",
+        "description": "pragmatic.accountapp.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='HelloWorld',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('text', models.CharField(max_length=255)),",
+        "detail": "pragmatic.accountapp.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "AccountappConfig",
+        "kind": 6,
+        "importPath": "pragmatic.accountapp.apps",
+        "description": "pragmatic.accountapp.apps",
+        "peekOfCode": "class AccountappConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'accountapp'",
+        "detail": "pragmatic.accountapp.apps",
+        "documentation": {}
+    },
+    {
+        "label": "account_ownership_required",
+        "kind": 2,
+        "importPath": "pragmatic.accountapp.decorators",
+        "description": "pragmatic.accountapp.decorators",
+        "peekOfCode": "def account_ownership_required(func):\n    def decorated(request, *args, **kwargs):\n        user = User.objects.get(pk=kwargs['pk'])\n        if not user == request.user:\n            return HttpResponseForbidden()\n        return func(request, *args, **kwargs)\n    return decorated",
+        "detail": "pragmatic.accountapp.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "AccountUpdateForm",
+        "kind": 6,
+        "importPath": "pragmatic.accountapp.forms",
+        "description": "pragmatic.accountapp.forms",
+        "peekOfCode": "class AccountUpdateForm(UserCreationForm):\n    def __init__(self, *args, **kwargs):\n        super().__init__(*args, **kwargs)\n        self.fields['username'].disabled = True",
+        "detail": "pragmatic.accountapp.forms",
+        "documentation": {}
+    },
+    {
+        "label": "HelloWorld",
+        "kind": 6,
+        "importPath": "pragmatic.accountapp.models",
+        "description": "pragmatic.accountapp.models",
+        "peekOfCode": "class HelloWorld(models.Model):\n    text = models.CharField(max_length=255, null=False)",
+        "detail": "pragmatic.accountapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "app_name",
+        "kind": 5,
+        "importPath": "pragmatic.accountapp.urls",
+        "description": "pragmatic.accountapp.urls",
+        "peekOfCode": "app_name = \"accountapp\"\nurlpatterns = [\n    path('hello_world/', hello_world, name='hello_world'),\n    path('login/', LoginView.as_view(template_name='accountapp/login.html'), name='login'),\n    path('logout/', LogoutView.as_view(template_name='accountapp:logout.html'), name='logout'),\n    path('create/', AccountCreateView.as_view(), name='create'),\n    path('detail/<int:pk>', AccountDetailView.as_view(), name='detail'),\n    path('update/<int:pk>', AccountUpdateView.as_view(), name='update'),\n    path('delete/<int:pk>', AccountDeleteView.as_view(), name='delete'),\n]",
+        "detail": "pragmatic.accountapp.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "pragmatic.accountapp.urls",
+        "description": "pragmatic.accountapp.urls",
+        "peekOfCode": "urlpatterns = [\n    path('hello_world/', hello_world, name='hello_world'),\n    path('login/', LoginView.as_view(template_name='accountapp/login.html'), name='login'),\n    path('logout/', LogoutView.as_view(template_name='accountapp:logout.html'), name='logout'),\n    path('create/', AccountCreateView.as_view(), name='create'),\n    path('detail/<int:pk>', AccountDetailView.as_view(), name='detail'),\n    path('update/<int:pk>', AccountUpdateView.as_view(), name='update'),\n    path('delete/<int:pk>', AccountDeleteView.as_view(), name='delete'),\n]",
+        "detail": "pragmatic.accountapp.urls",
+        "documentation": {}
+    },
+    {
+        "label": "AccountCreateView",
+        "kind": 6,
+        "importPath": "pragmatic.accountapp.views",
+        "description": "pragmatic.accountapp.views",
+        "peekOfCode": "class AccountCreateView(CreateView):\n    model = User\n    form_class = UserCreationForm\n    success_url = reverse_lazy('accountapp:login')\n    template_name = 'accountapp/create.html'\n@method_decorator(has_ownership, 'get')\n# @method_decorator(has_ownership, 'post')\nclass AccountDetailView(DetailView):\n    model = User\n    context_object_name = 'target_user'",
+        "detail": "pragmatic.accountapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "AccountDetailView",
+        "kind": 6,
+        "importPath": "pragmatic.accountapp.views",
+        "description": "pragmatic.accountapp.views",
+        "peekOfCode": "class AccountDetailView(DetailView):\n    model = User\n    context_object_name = 'target_user'\n    template_name = 'accountapp/detail.html'\n@method_decorator(has_ownership, 'get')\n@method_decorator(has_ownership, 'post')\nclass AccountUpdateView(UpdateView):\n    model = User\n    form_class = AccountUpdateForm\n    context_object_name = 'target_user'",
+        "detail": "pragmatic.accountapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "AccountUpdateView",
+        "kind": 6,
+        "importPath": "pragmatic.accountapp.views",
+        "description": "pragmatic.accountapp.views",
+        "peekOfCode": "class AccountUpdateView(UpdateView):\n    model = User\n    form_class = AccountUpdateForm\n    context_object_name = 'target_user'\n    success_url = reverse_lazy('accountapp:hello_world')\n    template_name = 'accountapp/update.html'\n@method_decorator(has_ownership, 'get')\n@method_decorator(has_ownership, 'post')\nclass AccountDeleteView(DeleteView):\n    model =User",
+        "detail": "pragmatic.accountapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "AccountDeleteView",
+        "kind": 6,
+        "importPath": "pragmatic.accountapp.views",
+        "description": "pragmatic.accountapp.views",
+        "peekOfCode": "class AccountDeleteView(DeleteView):\n    model =User\n    context_object_name = 'target_user'\n    success_url= reverse_lazy('accountapp:login')\n    template_name = 'accountapp/delete.html'",
+        "detail": "pragmatic.accountapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "hello_world",
+        "kind": 2,
+        "importPath": "pragmatic.accountapp.views",
+        "description": "pragmatic.accountapp.views",
+        "peekOfCode": "def hello_world(request):\n    #if request.user.is_authenticated: # 로그인한 경우_login_required로 대체\n    if request.method == \"POST\":\n        temp = request.POST.get('hello_world_input')\n        # 입력받은 정보 저장\n        new_hello_world = HelloWorld()\n        new_hello_world.text = temp\n        new_hello_world.save();\n        print(new_hello_world.text)\n        # 입력받은 정보 불러옴",
+        "detail": "pragmatic.accountapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "MakemigrationsConfig",
+        "kind": 6,
+        "importPath": "pragmatic.makemigrations.apps",
+        "description": "pragmatic.makemigrations.apps",
+        "peekOfCode": "class MakemigrationsConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'makemigrations'",
+        "detail": "pragmatic.makemigrations.apps",
+        "documentation": {}
+    },
+    {
+        "label": "MigrateConfig",
+        "kind": 6,
+        "importPath": "pragmatic.migrate.apps",
+        "description": "pragmatic.migrate.apps",
+        "peekOfCode": "class MigrateConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'migrate'",
+        "detail": "pragmatic.migrate.apps",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "pragmatic.pragmatic.asgi",
+        "description": "pragmatic.pragmatic.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "pragmatic.pragmatic.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "pragmatic.pragmatic.settings",
+        "description": "pragmatic.pragmatic.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\nenv = environ.Env(\n    # set casting, default value\n    DEBUG=(bool, False)\n)\n# reading .env file\nenviron.Env.read_env(\n    env_file=os.path.join(BASE_DIR, '.env')\n)\n# Quick-start development settings - unsuitable for production",
+        "detail": "pragmatic.pragmatic.settings",
+        "documentation": {}
+    },
+    {
+        "label": "env",
+        "kind": 5,
+        "importPath": "pragmatic.pragmatic.settings",
+        "description": "pragmatic.pragmatic.settings",
+        "peekOfCode": "env = environ.Env(\n    # set casting, default value\n    DEBUG=(bool, False)\n)\n# reading .env file\nenviron.Env.read_env(\n    env_file=os.path.join(BASE_DIR, '.env')\n)\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/3.2/howto/deployment/checklist/",
+        "detail": "pragmatic.pragmatic.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "pragmatic.pragmatic.settings",
+        "description": "pragmatic.pragmatic.settings",
+        "peekOfCode": "SECRET_KEY = env('SECRET_KEY')\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "pragmatic.pragmatic.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "pragmatic.pragmatic.settings",
+        "description": "pragmatic.pragmatic.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "pragmatic.pragmatic.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "pragmatic.pragmatic.settings",
+        "description": "pragmatic.pragmatic.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'bootstrap4',",
+        "detail": "pragmatic.pragmatic.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "pragmatic.pragmatic.settings",
+        "description": "pragmatic.pragmatic.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'bootstrap4',\n    'accountapp',\n    'profileapp',",
+        "detail": "pragmatic.pragmatic.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "pragmatic.pragmatic.settings",
+        "description": "pragmatic.pragmatic.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'pragmatic.urls'",
+        "detail": "pragmatic.pragmatic.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "pragmatic.pragmatic.settings",
+        "description": "pragmatic.pragmatic.settings",
+        "peekOfCode": "ROOT_URLCONF = 'pragmatic.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [os.path.join(BASE_DIR, 'templates')],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "pragmatic.pragmatic.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "pragmatic.pragmatic.settings",
+        "description": "pragmatic.pragmatic.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [os.path.join(BASE_DIR, 'templates')],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "pragmatic.pragmatic.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "pragmatic.pragmatic.settings",
+        "description": "pragmatic.pragmatic.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'pragmatic.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/3.2/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "pragmatic.pragmatic.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "pragmatic.pragmatic.settings",
+        "description": "pragmatic.pragmatic.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/3.2/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "pragmatic.pragmatic.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "pragmatic.pragmatic.settings",
+        "description": "pragmatic.pragmatic.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "pragmatic.pragmatic.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "pragmatic.pragmatic.settings",
+        "description": "pragmatic.pragmatic.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = '/static/'\nSTATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')\nSTATICFILES_DIRS = [",
+        "detail": "pragmatic.pragmatic.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "pragmatic.pragmatic.settings",
+        "description": "pragmatic.pragmatic.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = '/static/'\nSTATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')\nSTATICFILES_DIRS = [\n    BASE_DIR / \"static\"",
+        "detail": "pragmatic.pragmatic.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "pragmatic.pragmatic.settings",
+        "description": "pragmatic.pragmatic.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = '/static/'\nSTATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')\nSTATICFILES_DIRS = [\n    BASE_DIR / \"static\"\n]",
+        "detail": "pragmatic.pragmatic.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_L10N",
+        "kind": 5,
+        "importPath": "pragmatic.pragmatic.settings",
+        "description": "pragmatic.pragmatic.settings",
+        "peekOfCode": "USE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = '/static/'\nSTATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')\nSTATICFILES_DIRS = [\n    BASE_DIR / \"static\"\n]\n# Default primary key field type",
+        "detail": "pragmatic.pragmatic.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "pragmatic.pragmatic.settings",
+        "description": "pragmatic.pragmatic.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = '/static/'\nSTATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')\nSTATICFILES_DIRS = [\n    BASE_DIR / \"static\"\n]\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field",
+        "detail": "pragmatic.pragmatic.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "pragmatic.pragmatic.settings",
+        "description": "pragmatic.pragmatic.settings",
+        "peekOfCode": "STATIC_URL = '/static/'\nSTATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')\nSTATICFILES_DIRS = [\n    BASE_DIR / \"static\"\n]\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nfrom django.urls import reverse_lazy\nLOGIN_REDIRECT_URL = reverse_lazy('accountapp:hello_world')",
+        "detail": "pragmatic.pragmatic.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_ROOT",
+        "kind": 5,
+        "importPath": "pragmatic.pragmatic.settings",
+        "description": "pragmatic.pragmatic.settings",
+        "peekOfCode": "STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')\nSTATICFILES_DIRS = [\n    BASE_DIR / \"static\"\n]\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nfrom django.urls import reverse_lazy\nLOGIN_REDIRECT_URL = reverse_lazy('accountapp:hello_world')\nLOGOUT_REDIRECT_URL = reverse_lazy('accountapp:login')",
+        "detail": "pragmatic.pragmatic.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATICFILES_DIRS",
+        "kind": 5,
+        "importPath": "pragmatic.pragmatic.settings",
+        "description": "pragmatic.pragmatic.settings",
+        "peekOfCode": "STATICFILES_DIRS = [\n    BASE_DIR / \"static\"\n]\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nfrom django.urls import reverse_lazy\nLOGIN_REDIRECT_URL = reverse_lazy('accountapp:hello_world')\nLOGOUT_REDIRECT_URL = reverse_lazy('accountapp:login')\nMEDIA_URL = '/media/'",
+        "detail": "pragmatic.pragmatic.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "pragmatic.pragmatic.settings",
+        "description": "pragmatic.pragmatic.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nfrom django.urls import reverse_lazy\nLOGIN_REDIRECT_URL = reverse_lazy('accountapp:hello_world')\nLOGOUT_REDIRECT_URL = reverse_lazy('accountapp:login')\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')",
+        "detail": "pragmatic.pragmatic.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LOGIN_REDIRECT_URL",
+        "kind": 5,
+        "importPath": "pragmatic.pragmatic.settings",
+        "description": "pragmatic.pragmatic.settings",
+        "peekOfCode": "LOGIN_REDIRECT_URL = reverse_lazy('accountapp:hello_world')\nLOGOUT_REDIRECT_URL = reverse_lazy('accountapp:login')\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')",
+        "detail": "pragmatic.pragmatic.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LOGOUT_REDIRECT_URL",
+        "kind": 5,
+        "importPath": "pragmatic.pragmatic.settings",
+        "description": "pragmatic.pragmatic.settings",
+        "peekOfCode": "LOGOUT_REDIRECT_URL = reverse_lazy('accountapp:login')\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')",
+        "detail": "pragmatic.pragmatic.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_URL",
+        "kind": 5,
+        "importPath": "pragmatic.pragmatic.settings",
+        "description": "pragmatic.pragmatic.settings",
+        "peekOfCode": "MEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')",
+        "detail": "pragmatic.pragmatic.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_ROOT",
+        "kind": 5,
+        "importPath": "pragmatic.pragmatic.settings",
+        "description": "pragmatic.pragmatic.settings",
+        "peekOfCode": "MEDIA_ROOT = os.path.join(BASE_DIR, 'media')",
+        "detail": "pragmatic.pragmatic.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "pragmatic.pragmatic.urls",
+        "description": "pragmatic.pragmatic.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('accounts/', include('accountapp.urls')),\n    path('profiles/', include('profileapp.urls'))\n]",
+        "detail": "pragmatic.pragmatic.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "pragmatic.pragmatic.wsgi",
+        "description": "pragmatic.pragmatic.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "pragmatic.pragmatic.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "pragmatic.profileapp.migrations.0001_initial",
+        "description": "pragmatic.profileapp.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Profile',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "pragmatic.profileapp.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "ProfileappConfig",
+        "kind": 6,
+        "importPath": "pragmatic.profileapp.apps",
+        "description": "pragmatic.profileapp.apps",
+        "peekOfCode": "class ProfileappConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'profileapp'",
+        "detail": "pragmatic.profileapp.apps",
+        "documentation": {}
+    },
+    {
+        "label": "ProfileCreationForm",
+        "kind": 6,
+        "importPath": "pragmatic.profileapp.forms",
+        "description": "pragmatic.profileapp.forms",
+        "peekOfCode": "class ProfileCreationForm(ModelForm):\n    class Meta:\n        model = Profile\n        fields = ['image', 'nickname', 'message']",
+        "detail": "pragmatic.profileapp.forms",
+        "documentation": {}
+    },
+    {
+        "label": "Profile",
+        "kind": 6,
+        "importPath": "pragmatic.profileapp.models",
+        "description": "pragmatic.profileapp.models",
+        "peekOfCode": "class Profile(models.Model):\n    user = models.OneToOneField(User, on_delete=models.CASCADE, related_name='profile')\n    image = models.ImageField(upload_to='profile/', null=True)\n    nickname = models.CharField(max_length=20, unique=True, null=True)\n    message = models.CharField(max_length=100, null=True)",
+        "detail": "pragmatic.profileapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "pragmatic.profileapp.urls",
+        "description": "pragmatic.profileapp.urls",
+        "peekOfCode": "urlpatterns = [\n    path('create/', ProfileCreateView.as_view(), name='create'),\n    path('update/<int:pk>', ProfileUpdateView.as_view(), name='update')\n]",
+        "detail": "pragmatic.profileapp.urls",
+        "documentation": {}
+    },
+    {
+        "label": "ProfileCreateView",
+        "kind": 6,
+        "importPath": "pragmatic.profileapp.views",
+        "description": "pragmatic.profileapp.views",
+        "peekOfCode": "class ProfileCreateView(CreateView):\n    model = Profile\n    context_object_name = 'target_profile'\n    form_class = ProfileCreationForm\n    success_url = reverse_lazy('accountapp:hello_world')\n    template_name = 'profileapp/create.html'\n    def form_valid(self, form):\n        temp_profile = form.save(commit=False)\n        temp_profile.user = self.request.user\n        temp_profile.save()",
+        "detail": "pragmatic.profileapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "ProfileUpdateView",
+        "kind": 6,
+        "importPath": "pragmatic.profileapp.views",
+        "description": "pragmatic.profileapp.views",
+        "peekOfCode": "class ProfileUpdateView(UpdateView):\n    model = Profile\n    context_object_name = 'target_profile'\n    form_class = ProfileCreationForm\n    success_url = reverse_lazy('accountapp:hello_world')\n    template_name = 'profileapp/create.html'",
+        "detail": "pragmatic.profileapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "pragmatic.manage",
+        "description": "pragmatic.manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'pragmatic.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "pragmatic.manage",
+        "documentation": {}
+    }
+]
